@@ -15,7 +15,9 @@ Generate SSH key >
 ssh-keygen -t ed25519 -C "your_email@example.com"
 Copy the key to clipboard on BASH >
 $ clip < ~/.ssh/id_ed25519.pub
-# Copies the contents of the id_ed25519.pub file to your clipboard
+\# Copies the contents of the id_ed25519.pub file to your clipboard
 Test connection >
 ssh -T git@github.com
-# Attempts to ssh to GitHub
+\# Attempts to ssh to GitHub
+
+test test
