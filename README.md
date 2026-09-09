@@ -18,7 +18,7 @@ Downloading git, learning github, documenting in Obsidian using MD
 		- Test connection on cli >
 			> ssh -T git@github.com
 		- CD to directory and pull
-			> git clone <\repository-url>
+			> git clone <i>repository-url<i>
 		
 - Using Obsidian to manage MD for documentation of process 
 		https://forum.obsidian.md/t/yet-another-obsidian-git-tutorial-desktop-pc-ipad-sync/67531 <br>
