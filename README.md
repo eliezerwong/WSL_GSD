@@ -14,7 +14,7 @@ Downloading git, learning github, documenting in Obsidian using MD
 	- Copy key on cli >
 		> $ clip < ~/.ssh/id_ed25519.pub
 	- Add key on GitHub
-				![GitHub Add Key](WSL_GSD/Images/ssh.png)
+				![github add key](images/ssh.png)
 	- Test connection on cli >
 		> ssh -T git@github.com
 	- CD to directory and pull
